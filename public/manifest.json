@@ -1,0 +1,9 @@
+{
+  "short_name": "Netflix clone App",
+  "name": "Netflix clone app",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
